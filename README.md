@@ -8,8 +8,7 @@
 <br>
 <div>
  <div>
-   <img src="./assets/images/Cecil.png" align="left" width="200px">
-  <p align="right">
+   <img src="./assets/images/Cecil.png" align="left" height="600px" style="width:auto;">
 
    &nbsp;
     
