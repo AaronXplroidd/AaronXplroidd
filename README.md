@@ -12,16 +12,14 @@
 
    &nbsp;
     
-   &nbsp;&#10024; Call me Aaron or more familiarly Radityo
+   &nbsp;&#10024; Call Aaron or familiarly Radityo
 
-   &nbsp;&#10024; a high school student who has an interest in computers and AI
+   &nbsp;&#10024; high school student interest in computers and AI
 
    &nbsp;&#10024; know basic cyber techniques and the basics of programming
-
-
    &nbsp;&#10024; Understanding language, Language (Native), English (Intermediate), Japanese (Basic)
 
-   &nbsp;&#10024; Genre Game:MOBA(5),RPG(5),FPS(3),Turn-Base(1)
+   &nbsp;&#10024; A pleasure woven by fate to meet you.
 
    
    ==========================================================================================================================
