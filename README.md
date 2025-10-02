@@ -14,13 +14,18 @@
     
    &nbsp;&#10022; **Old cat** is my code name, you may know me as Fauzi.
 
+
    &nbsp;&#10022; Currently working as a full-time **software developer** in Indonesia.
+
 
    &nbsp;&#10022; Have good understanding of Backend and Frontend Development.
 
+
    &nbsp;&#10022; Have understanding in **Bahasa** (native), **English** (fluent), **日本語** (newbie).
 
+
    &nbsp;&#10022; Loves programming, camping and watch anime.
+
    
    &nbsp;&#10022; Nice to meet you!
    
