@@ -19,7 +19,7 @@
    &nbsp;&#10024; know basic cyber techniques and the basics of programming
    &nbsp;&#10024; Understanding language, Language (Native), English (Intermediate), Japanese (Basic)
 
-   &nbsp;&#10024; A pleasure woven by fate to meet you.
+   &nbsp;&#10024; Language Program:Phyton[4],C++[2]
 
    
    ==========================================================================================================================
@@ -29,9 +29,7 @@
 </div>
   <img src="./assets/images/Phb.png" align="right" width="300px">
   <p align="left">
-   ある日、炎を掴んだ兵士が石壁の静寂を破り現れる。間もなく詩人が立ち上がり、鋼鉄よりも鋭い声で、あらゆる王国を越えて響き渡る。七転び八起き ― 七転び八起き。それが運命の輪だ。そして季節の移り変わりとともに花が咲き誇る時、予言は再び囁く…いつか再び出会う、見えない日まで。
-   **For strength may fade and words may scatter, yet the fate of mankind is to rise again, is it not?”**
-   
+   コンピュータに興味があり、サイバーの基礎や技術などを学ぶのが好きな学生です。それに加えて、MOBA ジャンルのゲームや鉄拳のような PvP ゲームなどのオンライン ゲームが大好きです。
   </p>
 </div>
 
