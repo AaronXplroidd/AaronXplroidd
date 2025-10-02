@@ -32,4 +32,5 @@
    コンピュータに興味があり、サイバーの基礎や技術などを学ぶのが好きな学生です。それに加えて、MOBA ジャンルのゲームや鉄拳のような PvP ゲームなどのオンライン ゲームが大好きです。
   </p>
 </div>
+“Thank you for passing by and taking a glimpse into my little corner of code. I’m always learning, building, and sometimes breaking things along the way — that’s part of the journey, right? If our paths align, feel free to connect, share ideas, or simply say hello. Until then, see you in the next commit.”
 
