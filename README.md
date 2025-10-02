@@ -17,7 +17,7 @@
    &nbsp;&#10024; high school student interest in computers and AI
 
    &nbsp;&#10024; know basic cyber techniques and the basics of programming
-   &nbsp;&#10024; Understanding language, Language (Native), English (Intermediate), Japanese (Basic)
+   &nbsp;&#10024; Understanding language, Bahasa(Native), English (Intermediate), Japanese (Basic)
 
    &nbsp;&#10024; Language Program:Phyton[4],C++[2]
 
