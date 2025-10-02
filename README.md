@@ -12,19 +12,16 @@
 
    &nbsp;
     
-   &nbsp;&#10024; **Old cat** is my code name, you may know me as Fauzi.
+   &nbsp;&#10024; Call me Aaron or more familiarly Radityo
+
+   &nbsp;&#10024; a high school student who has an interest in computers and AI
+
+   &nbsp;&#10024; know basic cyber techniques and the basics of programming
 
 
-   &nbsp;&#10024; Currently working as a full-time **software developer** in Indonesia.
+   &nbsp;&#10024; Understanding language, Language (Native), English (Intermediate), Japanese (Basic)
 
-
-   &nbsp;&#10024; Have good understanding of Backend and Frontend Development.
-
-
-   &nbsp;&#10024; Have understanding in **Bahasa** (native), **English** (fluent), **日本語** (newbie).
-
-
-   &nbsp;&#10024; Loves programming, camping and watch anime.
+   &nbsp;&#10024; Genre Game:MOBA(5),RPG(5),FPS(3),Turn-Base(1)
 
    
    ==========================================================================================================================
