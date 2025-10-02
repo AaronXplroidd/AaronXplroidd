@@ -27,7 +27,7 @@
    &nbsp;&#10024; Loves programming, camping and watch anime.
 
    
-   &nbsp;&#10024; Nice to meet you!
+   =======================================================================
    
   </p>
  </div>
