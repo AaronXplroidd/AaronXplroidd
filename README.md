@@ -31,12 +31,9 @@
 </div>
   <img src="./assets/images/Phb.png" align="right" width="300px">
   <p align="left">
-   &nbsp;&#10022; **Old cat** is my code name, you may know me as Fauzi.  
-   &nbsp;&#10022; Currently working as a full-time **software developer** in Indonesia.  
-   &nbsp;&#10022; Have good understanding of Backend and Frontend Development.  
-   &nbsp;&#10022; Have understanding in **Bahasa** (native), **English** (fluent), **日本語** (newbie).  
-   &nbsp;&#10022; Loves programming, camping and watch anime.  
-   &nbsp;&#10022; Nice to meet you!
+   ある日、炎を掴んだ兵士が石壁の静寂を破り現れる。間もなく詩人が立ち上がり、鋼鉄よりも鋭い声で、あらゆる王国を越えて響き渡る。七転び八起き ― 七転び八起き。それが運命の輪だ。そして季節の移り変わりとともに花が咲き誇る時、予言は再び囁く…いつか再び出会う、見えない日まで。
+   **For strength may fade and words may scatter, yet the fate of mankind is to rise again, is it not?”**
+   
   </p>
 </div>
 
