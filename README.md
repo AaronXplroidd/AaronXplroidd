@@ -29,7 +29,7 @@
   </p>
  </div>
 </div>
-  <img src="./assets/images/Phb.png" align="right" width="200px">
+  <img src="./assets/images/Phb.png" align="right" width="300px">
   <p align="left">
    &nbsp;&#10022; **Old cat** is my code name, you may know me as Fauzi.  
    &nbsp;&#10022; Currently working as a full-time **software developer** in Indonesia.  
