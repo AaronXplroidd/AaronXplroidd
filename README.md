@@ -42,5 +42,6 @@
     I’m always learning, building, and sometimes breaking things along the way — 
     that’s part of the journey, right? If our paths align, feel free to connect, 
     share ideas, or simply say hello. Until then, see you in the next commit.”
+   <img src="./assets/images/Phb2.png">
   </p>
 </div>
